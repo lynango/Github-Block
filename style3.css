@@ -1,0 +1,43 @@
+body {
+    background:whitesmoke;
+    width: 100%;
+    margin: auto;
+}
+h1 {
+    color:rgb(49, 45, 45);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+}
+.maincontent {
+    width: auto;
+    border:10px solid black;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    display: center;
+}
+img.octocat {
+    height: 20em;
+}
+.row1 {
+    background-color:darkcyan;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3%;
+    padding: 3%;
+}
+.row2 {
+    background-color:pink;
+    display: flex;
+    justify-content:center;
+    margin: 3%;
+    padding: 3%;
+}
+.row3 {
+    background-color: white;
+    display: flex;
+    justify-content:space-evenly;
+    margin: 3%;
+    padding: 3%;
+}
